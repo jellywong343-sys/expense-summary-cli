@@ -1,0 +1,11 @@
+{
+  "name": "expense-summary-cli",
+  "description": "Summarize expense CSV files by month and category with filters and CSV or JSON reports.",
+  "topics": [
+    "python",
+    "expenses",
+    "csv",
+    "reporting",
+    "cli"
+  ]
+}
